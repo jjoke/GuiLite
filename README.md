@@ -93,7 +93,7 @@ GuiLite只是一个框架，本身并不能生成UI。为了能够展示如何�
 - [GuiLite + 单片机](https://v.youku.com/v_show/id_XNDAwNzM5MTM3Ng)
 
 ## 镜像代码仓库
-[GitHub链接](https://github.com/idea4good/GuiLite)
+[GitHub链接](https://github.com/nowger/GuiLite)
 
 ## 致谢
 - 感谢开发者群的所有同学，是你们塑造了今天的GuiLite！也欢迎新的大神/小白加入我们。<br>[<img src="doc/qq.group.jpg">](https://jq.qq.com/?_wv=1027&k=5EO8D9i)
